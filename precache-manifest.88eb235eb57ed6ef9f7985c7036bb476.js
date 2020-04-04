@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb20401f7d8caa8fddcfae7e1dad8dce",
+    "revision": "204888920a31ee03cee2dc3956de6305",
     "url": "/Weird-Persons-Directory/index.html"
   },
   {
-    "revision": "8ce4d28d675e2cd02053",
-    "url": "/Weird-Persons-Directory/static/css/main.b2a5ac9f.chunk.css"
+    "revision": "984ecba165821e8762a3",
+    "url": "/Weird-Persons-Directory/static/css/main.4aa39a06.chunk.css"
   },
   {
     "revision": "147f1327e7798733efc4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Weird-Persons-Directory/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ce4d28d675e2cd02053",
+    "revision": "984ecba165821e8762a3",
     "url": "/Weird-Persons-Directory/static/js/main.e6db2ec3.chunk.js"
   },
   {
