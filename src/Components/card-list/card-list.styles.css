@@ -1,7 +1,25 @@
 .card-list {
-    width: 85vw;
-    margin: 0 auto;
+    max-width: 100%;
+    margin-left: 6.33%;
     display: grid;
-    grid-template-columns: 23% 23% 23% 23%;
-    grid-gap: 20px;
+    grid-template-columns: 45% 45%;
+    grid-gap: 3.33%;
+}
+
+@media only screen and (min-width: 880px)  {
+	.card-list {
+        margin-left: 3.33%;
+        display: grid;
+        grid-template-columns: 30% 30% 30%;
+        grid-gap: 3.33%;
+    }
+}
+
+@media only screen and (min-width: 1500px)  {
+	.card-list {
+        margin-left: 2%;
+        display: grid;
+        grid-template-columns: 22.5% 22.5% 22.5% 22.5%;
+        grid-gap: 2%;
+    }
 }
