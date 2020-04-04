@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Weird-Persons-Directory/static/css/main.4aa39a06.chunk.css",
-    "main.js": "/Weird-Persons-Directory/static/js/main.e6db2ec3.chunk.js",
-    "main.js.map": "/Weird-Persons-Directory/static/js/main.e6db2ec3.chunk.js.map",
+    "main.css": "/Weird-Persons-Directory/static/css/main.bfcce84b.chunk.css",
+    "main.js": "/Weird-Persons-Directory/static/js/main.2c824b7a.chunk.js",
+    "main.js.map": "/Weird-Persons-Directory/static/js/main.2c824b7a.chunk.js.map",
     "runtime-main.js": "/Weird-Persons-Directory/static/js/runtime-main.414a4c96.js",
     "runtime-main.js.map": "/Weird-Persons-Directory/static/js/runtime-main.414a4c96.js.map",
     "static/js/2.d562cfe4.chunk.js": "/Weird-Persons-Directory/static/js/2.d562cfe4.chunk.js",
     "static/js/2.d562cfe4.chunk.js.map": "/Weird-Persons-Directory/static/js/2.d562cfe4.chunk.js.map",
     "index.html": "/Weird-Persons-Directory/index.html",
-    "precache-manifest.88eb235eb57ed6ef9f7985c7036bb476.js": "/Weird-Persons-Directory/precache-manifest.88eb235eb57ed6ef9f7985c7036bb476.js",
+    "precache-manifest.98ac8bd1c425383547888e084aec7366.js": "/Weird-Persons-Directory/precache-manifest.98ac8bd1c425383547888e084aec7366.js",
     "service-worker.js": "/Weird-Persons-Directory/service-worker.js",
-    "static/css/main.4aa39a06.chunk.css.map": "/Weird-Persons-Directory/static/css/main.4aa39a06.chunk.css.map",
+    "static/css/main.bfcce84b.chunk.css.map": "/Weird-Persons-Directory/static/css/main.bfcce84b.chunk.css.map",
     "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/Weird-Persons-Directory/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.414a4c96.js",
     "static/js/2.d562cfe4.chunk.js",
-    "static/css/main.4aa39a06.chunk.css",
-    "static/js/main.e6db2ec3.chunk.js"
+    "static/css/main.bfcce84b.chunk.css",
+    "static/js/main.2c824b7a.chunk.js"
   ]
 }

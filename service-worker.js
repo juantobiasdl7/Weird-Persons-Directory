@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Weird-Persons-Directory/precache-manifest.88eb235eb57ed6ef9f7985c7036bb476.js"
+  "/Weird-Persons-Directory/precache-manifest.98ac8bd1c425383547888e084aec7366.js"
 );
 
 self.addEventListener('message', (event) => {
