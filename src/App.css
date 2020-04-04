@@ -1,9 +1,12 @@
 .App {
-  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .tit {
   font-family: 'ZCOOL KuaiLe', cursive;
   font-size: 72px;
-  color: #0ccac4
+  color: #0ccac4;
+  text-align: center;
 }
